@@ -1,16 +1,9 @@
 # consultacep
 
-A new Flutter project.
+ - A descrição do aplicativo
+    Aplicativo que busca endereço utilizando o numero do CEP
 
-## Getting Started
+- Matrícula dos componentes do grupo
+    Gabriel Forza (12317003), Thulio Kuster (22217015)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Captura de tela do aplicativo criado mostrando a tela principal com o a recuperação das informações relativas ao CEP.
